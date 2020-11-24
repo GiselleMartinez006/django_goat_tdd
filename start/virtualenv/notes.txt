@@ -1,0 +1,6 @@
+__pycache__
+*.pyc
+db.sqlite3
+geckodriver.log
+virtualenv
+git rm -r --cached superlists/__pycache__
